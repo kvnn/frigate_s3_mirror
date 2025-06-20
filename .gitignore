@@ -19,3 +19,9 @@ core
 !/web/**/*.ts
 .idea/*
 .ipynb_checkpoints
+
+*.pyc
+__pycache__/
+.s3_uploaded_events
+.s3_failed_events
+.s3_retry_queue.json
